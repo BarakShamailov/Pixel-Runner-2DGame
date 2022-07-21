@@ -1,5 +1,5 @@
 # Pixel-Runner-2DGame
-2DGame, written in python with pygame library.
+2DGame, written in Python with Pygame library.
 
 ## Game Play Logic
 * Press space to start the game.
